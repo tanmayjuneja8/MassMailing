@@ -9,6 +9,7 @@ Follow the steps given below.
 4. Just write your gmail address and password in the columns, make a _test.csv_ file, as shown in the example, use f-strings in your mail bodies and incorporate those different variables used in the _test.csv_.
 5. Count the number of different body types I used (for example body1, body2, header, etc.) and write your Mail accordingly. If you don't want to use some body parameter, just delete it.
 6. Finally, if you want to beautify your mail using bold, italics, fonts, etc. : Write your mail in word and then convert to HTML using online converters and then paste it in the HTML section of the code.(in the form of f-string). My paragraph is commented out there as an example.
-7. Now, all you need to do is just open up your terminal, and run "python3 mail.py". Then wait for the magic to happen!
+7. If you want to attach some pdf/word/ any file with your mail, write the name of that file in the file_m code line. Your "mail.py" file and the attachment files should be in the same folder at the time of running the code.
+8. Now, all you need to do is just open up your terminal, and run "python3 mail.py". Then wait for the magic to happen!
 
 A friendly advice - Don't mail 100-200 people at once. There is a slight chance that your mail might end up in their spam folder. Make 4 batches of 50 and try running the code 4 times with a 2-3 minute gap atleast, if possible.  - _Even this thing can be automated. I have left it for you as an exercise, make me proud!_
