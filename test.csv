@@ -1,0 +1,58 @@
+Email,Name,Publications,Univ
+venkatg@berkeley.edu,Venkatesan Guruswami,Beating Fredman-Komlós for perfect k-hashing,"University of California, Berkeley"
+prabal@berkeley.edu,Prabal Dutta,Speaking Truth to Power,"University of California, Berkeley"
+arcak@berkeley.edu,Murat Arcak,Interval Reachability Analysis: Bounding Trajectories of Uncertain Systems with Boxes for Control and Verification,"University of California, Berkeley"
+gopala@berkeley.edu,Gopala Krishna Anumanchipalli,Neuroprosthesis for decoding speech in a paralyzed person with anarthria,"University of California, Berkeley"
+ananth@eecs.berkeley.edu,Venkat Anantharam,"Using Reed-Muller RM(1,m) codes over channels with synchronization and substitution errors","University of California, Berkeley"
+wainwrig@eecs.berkeley.edu,M. J. Wainwright,Instance-dependent $\ell_\infty$-bounds for policy evaluation in tabular reinforcement learning,"University of California, Berkeley"
+stellayu@berkeley.edu,Stella Yu,Unsupervised Data Selection for Data-Centric Semi-Supervised Learning,"University of California, Berkeley"
+gunes@robots.ox.ac.uk,Atilim Güneş Baydin,Simulation Intelligence: Towards a New Generation of Scientific Methods,University of Oxford
+ani.Calinescu@cs.ox.ac.uk,Anisoara Calinescu,Secure traveling salesman problem with intelligent transport systems features,University of Oxford
+ismail.ceylan@cs.ox.ac.uk,Ismail Ilkan Ceylan,Explanations for Ontology−Mediated Query Answering in Description Logics,University of Oxford
+bernardo.cuenca.grau@cs.ox.ac.uk,Bernardo Cuenca Grau,Pay−as−you−go Consequence−based Reasoning for the Description Logic SROIQ,University of Oxford
+elkind@cs.ox.ac.uk,Edith Elkind,Properties of multiwinner voting rules,University of Oxford
+varunk@cs.ox.ac.uk,Varun Kanade,Towards optimally abstaining from prediction with OOD test examples,University of Oxford
+thomas.lukasiewicz@cs.ox.ac.uk,Thomas Lukasiewicz,Complexity Results for Preference Aggregation over (m)CP−Nets: Max and Rank Voting,University of Oxford
+shimon.whiteson@cs.ox.ac.uk,Shimon Whiteson,Regularized Softmax Deep Multi-Agent Q-Learning,University of Oxford
+mjw@cs.ox.ac.uk,Michael Wooldridge,Equilibrium Refinements for Multi-Agent Influence Diagrams: Theory and Practice,University of Oxford
+Luke.Ong@cs.ox.ac.uk,Luke Ong,Collapsible Pushdown Parity Games,University of Oxford
+sam.staton@cs.ox.ac.uk,Sam Staton,Monads for measurable queries in probabilistic databases,University of Oxford
+andreas.galanis@cs.ox.ac.uk,Andreas Galanis,Sampling Colorings and Independent Sets of Random Regular Bipartite Graphs in the Non-Uniqueness Region,University of Oxford
+paul.goldberg@cs.ox.ac.uk,Paul Goldberg,The hairy ball problem is PPAD-complete,University of Oxford
+peter.Jeavons@cs.ox.ac.uk,Peter Jeavons,Representing fitness landscapes by valued constraints to understand the complexity of local search,University of Oxford
+kaiser@cs.columbia.edu,Gail E Kaiser,VELVET: a noVel Ensemble Learning approach to automatically locate VulnErable sTatements,Columbia University
+jrk@cs.columbia.edu,John R Kender,Generating and augmenting transfer learning datasets with pseudo-labeled images,Columbia University
+martha@cs.columbia.edu,Martha A Kim,"Catena: A near-threshold, sub-0.4-mW, 16-core programmable spatial array accelerator for the ultralow-power mobile and embedded Internet of Things",Columbia University
+dak2173@columbia.edu,David Knowles,"""Variational Variance: Simple and Reliable Predictive Variance Parameterization""",Columbia University
+jae@cs.columbia.edu,Jae Woo Lee,Future Internets Escape the Simulator,Columbia University
+kathy@cs.columbia.edu,Kathleen McKeown,An analysis of document graph construction methods for AMR summarization,Columbia University
+vishal.misra@columbia.edu,Vishal Misra,Rank estimation for (approximately) low-rank matrices,Columbia University
+nayar@cs.columbia.edu,Shree K Nayar,What Are Optimal Coding Functions for Time-of-Flight Imaging,Columbia University
+nieh@cs.columbia.edu,Jason Nieh,Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware,Columbia University
+itsik@cs.columbia.edu,Itsik G Pe'er,Accurate and robust inference of microbial growth dynamics from metagenomic sequencing reveals personalized growth rates,Columbia University
+Feniosky@columbia.edu,Feniosky Pena-Mora,Research Status and Challenges of Data-Driven Construction Project Management in the Big Data Context,Columbia University
+tp2684@columbia.edu,Toniann Pitassi,Lifting Nullstellensatz to Monotone Span Programs over any Field.,Columbia University
+rayb@cs.columbia.edu,Baishakhi Ray,On Multi-Modal Learning of Editing Source Code.,Columbia University
+kar@cs.columbia.edu,Kenneth A Ross,Technical Perspective: Scaling Dynamic Hash Tables on Real Persistent Memory,Columbia University
+tr@cs.columbia.edu,Tim Roughgarden,How Computer Science Informs Modern Auction Design,Columbia University
+danr@cs.columbia.edu,Dan Rubenstein,Down for failure: Active power status monitoring,Columbia University
+ansaf@cs.columbia.edu,Ansaf Salleb-Aouissi,Automated Symbolic Law Discovery: A Computer Vision Approach,Columbia University
+hgs@cs.columbia.edu,Henning Schulzrinne,"Centralization is about Control, not Protocols: Position Paper",Columbia University
+rocco@cs.columbia.edu,Rocco A. Servedio,Average-Case Subset Balancing Problems,Columbia University
+simha@cs.columbia.edu,Simha Sethumadhavan,Trustworthy Hardware from Untrustworthy Components CACM,Columbia University
+brian@cs.columbia.edu,Brian A Smith,The RAD: Making Racing Games Equivalently Accessible to People Who Are Blind,Columbia University
+shurans@cs.columbia.edu,Shuran Song,Scene Editing as Teleoperation: A Case Study in 6DoF Kit Assembly,Columbia University
+cliff@cs.columbia.edu,Clifford Stein,Resource cost aware scheduling,Columbia University
+sal@cs.columbia.edu,Salvatore J Stolfo,"Methods, systems, and media for testing insider threat detection systems",Columbia University
+bs2286@columbia.edu,Bjarne Stroustrup,Type-and-resource safety in modern C++,Columbia University
+verma@cs.columbia.edu,Nakul Verma,"A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: Calculus, Differential Equations, Linear Algebra, and More",Columbia University
+vondrick@cs.columbia.edu,Carl Vondrick,Discrete Representations Strengthen Vision Transformer Robustness,Columbia University
+omri@cs.columbia.edu,Omri Weinstein,A Faster Algorithm for Solving General LPs,Columbia University
+wing@columbia.edu,Jeannette M. Wing,"""The Emergence and Future of Public Health Data Science,""",Columbia University
+ewu@cs.columbia.edu,Eugene Wu,Explaining SQL-ML Queries with Bayesian Optimization,Columbia University
+junfeng@cs.columbia.edu,Jungfeng Yang,Multi-task Learning Increases Adversarial Robustness,Columbia University
+mihalis@cs.columbia.edu,Mihalis Yannakakis,Epinoia: Intent Checker for Stateful Networks,Columbia University
+zy2461@columbia.edu,Zhou Yu,Selective Differential Privacy for Language Models,Columbia University
+hsy2116@columbia.edu,Henry Yuen,Quantum search-to-decision reductions and the state synthesis problem,Columbia University
+zemel@cs.columbia.edu,Richard Zemel,Environment inference for invariant learning,Columbia University
+cxz@cs.columbia.edu,Changxi Zheng,Understanding the Correlation between Lithium Dendrite Growth and Local Material Properties by Machine Learning.,Columbia University
